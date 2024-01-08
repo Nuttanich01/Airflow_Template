@@ -1,7 +1,7 @@
 # Airflow_Template
 Running Airflow in Docker 
-follow this Link : https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
-Documentation : https://airflow.apache.org/docs/apache-airflow/1.10.10/start.html
+- follow this Link : https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+- Documentation : https://airflow.apache.org/docs/apache-airflow/1.10.10/start.html
 
 image required
 - apache/airflow : https://airflow.apache.org/docs/docker-stack/index.html
