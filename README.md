@@ -9,6 +9,6 @@ image required
 - redis : https://hub.docker.com/_/redis
 
 Deployment
-1. git pull this repository to server
+1. git pull this your airflow project repository to server
 2. run docker "docker stack deploy"
 3. if there is an update code , commit last ver. code to github and git pull on server
